@@ -1,0 +1,3 @@
+[submodule "enum-profiling-sample"]
+			path = enum-profiling-sample
+			url = https://github.com/justACT/griffin-profile-enum.git
