@@ -20,3 +20,5 @@ service/src/main/resources/application-dev.properties
 .settings/
 .classpath
 bin
+
+*.log
